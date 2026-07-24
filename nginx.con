@@ -1,0 +1,9 @@
+server{
+	listen 78;
+	
+	root /code/resumegpt;
+	
+	index index.html;
+	
+	location / {try_files $uri $uri/ =404;}
+}
