@@ -14,7 +14,7 @@
   --sans: "Inter", system-ui, sans-serif;
   --mono: "JetBrains Mono", ui-monospace, monospace;
 }
-/* GIT PUSH*/
+
 * { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }
